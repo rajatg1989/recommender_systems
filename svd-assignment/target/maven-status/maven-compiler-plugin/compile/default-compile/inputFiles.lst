@@ -1,0 +1,17 @@
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\dao\RatingFile.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\dao\MOOCUserDAO.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\svd\SVDModelBuilder.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\svd\SVDModel.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\dao\TitleFile.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\dao\MOOCItemDAO.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\svd\SVDMain.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\svd\SVDItemScorer.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\dao\CSVItemTagDAO.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\svd\LatentFeatureCount.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\dao\TagFile.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\dao\UserFile.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\dao\MOOCRatingDAO.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\svd\BaselineMode.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\dao\ItemTitleDAO.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\dao\UserNameDAO.java
+D:\Classes\Recommender Systems\Module 7\Assignments\svd-assignment\src\main\java\edu\umn\cs\recsys\dao\ItemTagDAO.java
